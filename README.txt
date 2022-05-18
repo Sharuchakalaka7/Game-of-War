@@ -1,4 +1,7 @@
-Course: ICS 4UI Computer Science
+# Game-of-War
+
+Course: ICS 4UI - Computer Science
+
 Institution: Bluevale Collegiate Institute
 
 The Game of War Rules:
