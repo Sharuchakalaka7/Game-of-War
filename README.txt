@@ -1,4 +1,4 @@
-# Game-of-War
+#Game-of-War
 
 Course: ICS 4UI - Computer Science
 
