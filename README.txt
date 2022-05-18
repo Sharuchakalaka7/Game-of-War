@@ -1,3 +1,6 @@
+Course: ICS 4UI Computer Science
+Institution: Bluevale Collegiate Institute
+
 The Game of War Rules:
 
 	There are 52 playing Cards in the Deck, 13 Cards per suit, 4 suits, no jokers. The order of the Card values from lowest to highest goes like this: 2, 3, 4, 5, 6, 7, 8, 9, 10, (J)ack, (Q)ueen, (K)ing, (A)ce. This Deck is shuffled and distributed to the Draw Piles of two players - the human player and the computer player. These players also have two Played Piles sections where they play their Cards when appropriate.
